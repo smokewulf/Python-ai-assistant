@@ -102,7 +102,7 @@ Create key: https://openweathermap.org/appid
 """
 WEATHER_API = {
     'unit': 'celsius',
-    'key': None
+    'key': 'b8496718402d24a629fedd288349231b'
 }
 
 
@@ -112,7 +112,7 @@ Create key: https://developer.wolframalpha.com/portal/myapps/
 
 """
 WOLFRAMALPHA_API = {
-    'key': None
+    'key': 'G4T7KU-YKTP6Y2P8J'
 }
 
 
@@ -122,5 +122,5 @@ Create key: https://ipstack.com/signup/free
 
 """
 IPSTACK_API = {
-    'key': None
+    'key': 'd3a840b0fe1a11170d74dd9c05f588f4'
 }
