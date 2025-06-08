@@ -1,0 +1,5 @@
+2025-06-08 01:57:26,952 - root - INFO - Wait a second for startup checks..
+2025-06-08 01:57:26,964 - root - INFO - Checking internet connection..
+2025-06-08 01:57:27,017 - root - INFO - Internet connection passed!
+2025-06-08 01:57:27,032 - root - INFO - Application started
+2025-06-08 01:57:27,049 - root - INFO - I'm ready! Say something :-)
