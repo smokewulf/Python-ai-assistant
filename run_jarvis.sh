@@ -7,7 +7,7 @@ sudo systemctl start mongodb
 # --------------------------------
 # Start Jarvis service with virtualenv
 # --------------------------------
-./jarvis_virtualenv/bin/python ./src/jarvis/start.py
+NLTK_DATA=/home/wulfzbaine/nltk_data ./jarvis_virtualenv/bin/python ./src/jarvis/start.py
 
 # --------------------------------
 # Stop MongoDB service
